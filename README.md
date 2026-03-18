@@ -57,4 +57,8 @@ jupyter notebook
 
 Detaylı sürüm listesi için [`requirements.txt`](requirements.txt) dosyasına bakın.
 
+## 📖 Kaynak Kitap
+
+Brockwell, P. J., & Davis, R. A. (2009). Time series: theory and methods. Springer science & business media.
+
 ---
