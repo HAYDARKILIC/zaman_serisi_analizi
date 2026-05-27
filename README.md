@@ -1,8 +1,6 @@
 # Zaman Serisi Analizi
 
-**Haydar Kılıç, Yapay Zeka Mühendisliği**
-
-Bu repo, Zaman Serisi analizi dersinin üniversite düzeyinde eğitim amaçlı Python notebook'larından oluşmaktadır. Her notebook teorik içeriği Python uygulamaları, görselleştirmeler ve yorumlanan çıktılarla destekler.
+Zaman Serisi ve İstatistiksel Tahminleme, bu depo derin matematiksel teori ile güçlü Python uygulamaları arasındaki köprüyü kuran 10 derslik kapsamlı bir müfredatı içerir. 
 
 ---
 
